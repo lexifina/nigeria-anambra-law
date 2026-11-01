@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "10-laws-01.json": {
+   "acts": [
+    "homeland-security-law-2025"
+   ],
+   "sha256": "8c0fdfe740b5e4cf1f98bfc115dd4f5c7f1c4253094529bda04a30d1d8960f82"
+  }
+ },
+ "schema": 1
+}
