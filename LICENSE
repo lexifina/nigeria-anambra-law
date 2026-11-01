@@ -1,0 +1,15 @@
+Law texts
+
+The texts in this repository are Laws of Anambra State, taken from the copies the Anambra State Government publishes at
+anambrastate.gov.ng (document library, "Laws").
+
+- Copyright: the Copyright Act, 2022 (Nigeria), s. 3, says: "The following shall not be eligible for copyright -- ...
+  (b) official texts of a legislative or administrative nature as well as any official translations, except their
+  compilations". The Laws here are such official texts. The website carries a general "All right reserved" footer, which
+  does not reach texts that are not eligible for copyright; no compilation of the Government's is copied.
+- The Government's PDFs are not the authoritative text: the Laws as published in the Anambra State Official Gazette are.
+
+Attribution: Source: Anambra State Government, https://anambrastate.gov.ng.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

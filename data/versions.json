@@ -1,0 +1,19 @@
+{
+ "country": "NG-AN",
+ "acts": [
+  {
+   "slug": "homeland-security-law-2025",
+   "short": "Homeland Security Law 2025",
+   "title": "Anambra State Homeland Security Law, 2025",
+   "url": "https://anambrastate.gov.ng/wp-content/uploads/ANAMBRA-STATE-HOMELAND-SECURITY-LAW-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 41,
+     "source_url": "https://anambrastate.gov.ng/wp-content/uploads/ANAMBRA-STATE-HOMELAND-SECURITY-LAW-2025.pdf",
+     "sha256": "e06704e659d998337732e6e653449a19f731ca04e4701b44a4c32e62412f1c56"
+    }
+   ]
+  }
+ ]
+}
